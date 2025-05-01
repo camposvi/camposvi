@@ -1,45 +1,56 @@
-Full Stack Developer with 7 Years of Experience.
-Passionate about embracing new challenges and continuously expanding my skill set in the tech industry.
-I hold a Bachelor's Degree in Information Systems.
-Specializing in web development. I thrive on solving complex problems, collaborating with teams to deliver impactful projects, and staying at the forefront of emerging trends in technology.
+# 👨‍💻 Full Stack Developer with 7 Years of Experience
 
-Technical Expertise:
+Passionate about embracing new challenges and continuously expanding my skill set in the tech industry.  
+I hold a **Bachelor's Degree in Information Systems** and specialize in **web development**.
 
-Frontend Development:
-Vue.js, React.js, Vuetify, Styled Components, Tailwind CSS, Bootstrap, Babel, Webpack
+I thrive on solving complex problems, collaborating with teams to deliver impactful projects, and staying at the forefront of emerging trends in technology.
 
-JavaScript-based Backend:
-Node.js, Express.js, Nest.js, GraphQL
+---
 
-Python-based Backend:
-FastAPI, Flask
+## 🧠 Technical Expertise
 
-Software Architecture:
-MVC, Clean Architecture, Microservices
+### ⚙️ Frontend Development
+- **Frameworks & Libraries**: Vue.js, React.js
+- **UI Toolkits**: Vuetify, Styled Components, Tailwind CSS, Bootstrap
+- **Tooling**: Babel, Webpack
 
-SQL Databases:
-PostgreSQL, MySQL, SQL Server
+### 🔧 JavaScript Backend
+- Node.js, Express.js, Nest.js, GraphQL
 
-NoSQL Databases:
-MongoDB, IBM Cloudant
+### 🐍 Python Backend
+- FastAPI, Flask
 
-API Development and Documentation:
-Swagger Documentation
+### 🧱 Software Architecture
+- MVC, Clean Architecture, Microservices
 
-Containerization and Cloud Platforms:
-Docker, OpenShift
+### 🗄️ Databases
+- **SQL**: PostgreSQL, MySQL, SQL Server  
+- **NoSQL**: MongoDB, IBM Cloudant
 
-Desktop Application Development:
-Electron.js
+### 📡 API Development
+- RESTful APIs
+- GraphQL
+- Swagger Documentation
 
-Testing Frameworks and Tools:
-Jest, Pytest, Puppeteer, Cypress
+### 📦 Containerization & Cloud
+- Docker
+- OpenShift
 
-Project Management Tools:
-JIRA, Trello
+### 🖥️ Desktop Development
+- Electron.js
 
-Version Control and Collaboration:
-GitHub
+### ✅ Testing
+- Jest, Pytest, Puppeteer, Cypress
 
-DevOps and Deployment:
-Continuous Integration/Continuous Deployment (CI/CD) pipelines
+### 📈 DevOps & Deployment
+- CI/CD pipelines
+- GitHub Actions
+
+### 📌 Project Management
+- JIRA, Trello
+
+### 🔄 Version Control
+- Git & GitHub
+
+---
+
