@@ -1,6 +1,6 @@
-# 👨‍💻 Full Stack Developer with 7 Years of Experience
 
-Passionate about embracing new challenges and continuously expanding my skill set in the tech industry.  
+
+Full Stack Developer with 7 Years of Experience, passionate about embracing new challenges and continuously expanding my skill set in the tech industry.  
 I hold a **Bachelor's Degree in Information Systems** and specialize in **web development**.
 
 I thrive on solving complex problems, collaborating with teams to deliver impactful projects, and staying at the forefront of emerging trends in technology.
